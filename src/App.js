@@ -1,25 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
-
-function App() {
+import React from "react";
+import ProductCard from "./components/productcard/ProductCard";
+import Category from "./components/category/Category";
+import FilterTop from "./components/filtertop/FilterTop";
+//category js içerisinde productType ve productPrice, productPrice, productGender adında  tane komponent var.
+const ProductFilter = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="flex flex-col justify-center">
+      <FilterTop />
+      <div className="flex flex-row justify-center gap-x-6">
+        <Category />
+        <ProductCard />
+      </div>
     </div>
   );
-}
+};
 
-export default App;
+export default ProductFilter;
+

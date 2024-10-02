@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "title": "Beyaz Çanta",
+        "description": " plaza pantolon esnek kumaş beyaz siyah",
+        "price": 35.4,
+        "comments": 459
+    },
+    {
+        "id": 2,
+        "title": "Beyaz T-Shirt",
+        "description": " plaza pantolon esnek kumaş kırmızı pembe",
+        "price": 21.87,
+        "comments": 211
+    },
+    {
+        "id": 3,
+        "title": "Beyaz Sweatshirt",
+        "description": " plaza pantolon esnek kumaş çiçek desen",
+        "price": 31.37,
+        "comments": 20
+    },
+    {
+        "id": 4,
+        "title": "Yeşil Çanta",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 13.51,
+        "comments": 19
+    },
+    {
+        "id": 5,
+        "title": "Siyah Çanta",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 41.74,
+        "comments": 371
+    },
+    {
+        "id": 6,
+        "title": "Mavi Çanta",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 62.08,
+        "comments": 401
+    },
+    {
+        "id": 7,
+        "title": "Yeşil Çanta",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 46.0,
+        "comments": 410
+    },
+    {
+        "id": 8,
+        "title": "Yeşil T-Shirt",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 86.43,
+        "comments": 31
+    },
+    {
+        "id": 9,
+        "title": "Beyaz Sweatshirt",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 73.2,
+        "comments": 17
+    },
+    {
+        "id": 10,
+        "title": "Siyah Sweatshirt",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 89.12,
+        "comments": 20
+    },
+    {
+        "id": 11,
+        "title": "Mavi Çanta",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 60.71,
+        "comments": 293
+    },
+    {
+        "id": 12,
+        "title": "Yeşil Çanta",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 51.46,
+        "comments": 204
+    },
+    {
+        "id": 13,
+        "title": "Siyah Çanta",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 37.93,
+        "comments": 189
+    },
+    {
+        "id": 14,
+        "title": "Mavi Çanta",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 87.31,
+        "comments": 485
+    },
+    {
+        "id": 15,
+        "title": "Kırmızı Sweatshirt",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 34.42,
+        "comments": 290
+    },
+    {
+        "id": 16,
+        "title": "Siyah Çanta",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 42.7,
+        "comments": 290
+    },
+    {
+        "id": 17,
+        "title": "Mavi Çanta",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 54.23,
+        "comments": 335
+    },
+    {
+        "id": 18,
+        "title": "Beyaz Çanta",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 53.06,
+        "comments": 36
+    },
+    {
+        "id": 19,
+        "title": "Mavi Çanta",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 27.59,
+        "comments": 261
+    },
+    {
+        "id": 20,
+        "title": "Beyaz Sweatshirt",
+        "description": " plaza pantolon esnek kumaş kırmızı beyaz",
+        "price": 51.78,
+        "comments": 390
+    }
+]
